@@ -43,7 +43,7 @@ Programming for me became not only a technical skill but also a mindset centered
 
 # Projects
 
-## [Tales of Pirates Server](./projects/Tales-of-Pirates-Server-Gameplay-Sys)
+## [Tales of Pirates Server](https://github.com/d13g0f/portfolio/blob/main/Projects/Tales-of-Pirates-Server-Gameplay-Sys.md)
 Gameplay Systems Refactoring & MMO Design
 
 A heavily customized gameplay scripting layer for a Tales of Pirates MMORPG server built primarily in Lua.
@@ -77,7 +77,7 @@ Key improvements included:
 ---
 
 ## [Midgard Pirates Web Portal](https://midgardpirates.online/)
-   [Web Documentation](./projects/Midgard-Pirates-Web-Portal)
+   [Web Documentation](https://github.com/d13g0f/portfolio/blob/main/Projects/Midgard-Pirates-Web-Portal.md)
 
 A full-stack web platform integrated with the game server infrastructure.
 
@@ -93,7 +93,7 @@ Built with **Next.js, TypeScript, SQL Server, Docker and Nginx**.
 
 ---
 
-## [Midgard Game Launcher](./projects/MidGard-Game-Launcher-Patch-Client)
+## [Midgard Game Launcher](https://github.com/d13g0f/portfolio/blob/main/Projects/MidGard-Game-Launcher-Patch-Client.md)
 Client Update & Patch Management Tool
 
 A Windows desktop launcher written in **C# using WPF**.
@@ -129,7 +129,7 @@ System-driven farming simulation built in Unity, focused on persistent world mec
 
 ---
 
-## [Climb & Fight](./projects/Climb-and-Fight)
+## [Climb & Fight](https://github.com/d13g0f/portfolio/blob/main/Projects/Climb-and-Fight.md)
 Gameplay Systems & Rapid Prototyping
 
 A vertical climbing gameplay prototype built in Unity, focused on movement systems, procedural environments, and player interaction through disruption and recovery mechanics.
